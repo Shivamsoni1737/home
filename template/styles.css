@@ -1,0 +1,17 @@
+.modal-body {
+    min-height: 300px;
+}
+
+.fab {
+    color: red;
+}
+
+.middle-container {
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: large;
+}
+
+a.noHover:hover {
+    text-decoration: none;
+}
